@@ -1,0 +1,36 @@
+100uf capacitor electrolytic -
+100k resistor -
+ne555n - 
+100N capacitor tantalum -
+1k resistor - 
+1k resistor -
+470R resistor -
+A1015 transistor -
+100N capacitor tantalum -
+47R resistor -
+100R resistor -
+IRF730 voltage regulator - 
+50k resistor - 
+390R 1W resistor -
+220R 1W resistor -
+1N4148 diode - 
+1N4148 diode - 
+47k resistor - 
+10UF electrolytic capacitor -
+1UF electrolytic capacitor -
+1n capacitor tantalum -
+2Mohm resistor -
+JRC4558 amplifier - 
+68k resistor -
+68k resistor -
+120k resistor -
+470k resistor -
+10UF electrolytic capacitor -
+1UF capacitor tantalum -
+4.7R resistor -
+BC547 transistor -
+pot 2k -
+pot 100k -
+
+
+
